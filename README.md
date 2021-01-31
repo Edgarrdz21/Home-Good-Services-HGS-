@@ -25,3 +25,5 @@ They will not be able to leave a review or post anything on the website.
 Users can post their operating times, the quantity of the goods they will be making daily/weekly/monthly.
 They can reply to reviews, post on their page. Create groups where they can discuss collaborations in order to help each other out. 
 Send invites to registered users around their zip code to events or special sales that they will be having. 
+
+
