@@ -24,15 +24,7 @@ Users can post their operating times, the quantity of the goods they will be mak
 They can reply to reviews, post on their page. Create groups where they can discuss collaborations in order to help each other out. 
 Send invites to registered users around their zip code to events or special sales that they will be having. 
 
-My program looks like this 
-```cs
-public static void Main(string[] args)
-{
-Console.WriteLine("Hello World");
-}
 
-```
 
-![C# Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpRbBOXFgqEDcP32AKtQFuQ7JHNsmap-E9IA&usqp=CAU)
 
-[Go TO Github](https://github.com
+
