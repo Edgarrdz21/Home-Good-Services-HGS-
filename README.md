@@ -16,7 +16,7 @@ Jan 19, 2021
 #### Introduction
 Since **covid-19** a lot of people have had to work from home. 
 I have seen a lot of people post on Facebook about the things they sell or make. 
-It is a really good way to make money on the side for those who are struggling or simply want to make money out of their hobbies.
+It is a really good way to make money on the side for those who are **struggling** or simply want to make money out of their hobbies.
 
 
 Users will be allowed to create an account and register at this website. Once they register, they will receive an email to confirm their account.
