@@ -27,6 +27,6 @@ They can reply to reviews, post on their page. Create groups where they can disc
 Send invites to registered users around their zip code to events or special sales that they will be having. 
 
 
-![C# Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AC_Sharp_logo.png&psig=AOvVaw13LSxWFAJe2VJAr3NabOp4&ust=1612143303992000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCc_IOExe4CFQAAAAAdAAAAABAO)
+![C# Logo](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F97%2Fcf%2F2c%2F97cf2ccd659ef9b00dd0aa15137130ec.png&imgrefurl=https%3A%2F%2Far.pinterest.com%2Fpin%2F812759063979632659%2F&tbnid=d-qWC5xD1IOoIM&vet=10CAUQxiAoBWoXChMIwJz8g4TF7gIVAAAAAB0AAAAAEBs..i&docid=NgDdFGhGOvG4oM&w=600&h=600&itg=1&q=C%23%20logo&ved=0CAUQxiAoBWoXChMIwJz8g4TF7gIVAAAAAB0AAAAAEBs)
 
 [Go TO Github](https://github.com
