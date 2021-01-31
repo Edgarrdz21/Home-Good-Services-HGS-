@@ -28,7 +28,7 @@ Send invites to registered users around their zip code to events or special sale
 
 My program looks like this 
 ```cs
-public static voidmain(string[] args)
+public static void Main(string[] args)
 {
 Console.WriteLine("Hello World");
 }
