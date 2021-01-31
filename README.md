@@ -1,20 +1,17 @@
 # Home Good Services (HGS)
-### My 18-Week Project. An ASP.NET MVC Core Web Application for MSSA.
+### An 18-Week Application Project. in ASP.NET MVC Core Web for MSSA.
 
-
-
-
+---
 
 Edgar Rodriguez
 MSSA CAD
 Jan 19, 2021
 
-		PROJECT STEP 2
-PROJECT SELECTION
+---
 
+### HOME GOOD SERVICES (HGS)
 
-HOME GOOD SERVICES (HGS)
-
+#### Introduction
 Since covid-19 a lot of people have had to work from home. I have seen a lot of people post on Facebook about the things they sell or make. It is a really good way to make money on the side for those who are struggling or simply want to make money out of their hobbies.
 
 
