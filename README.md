@@ -24,6 +24,7 @@ Users can post their operating times, the quantity of the goods they will be mak
 They can reply to reviews, post on their page. Create groups where they can discuss collaborations in order to help each other out. 
 Send invites to registered users around their zip code to events or special sales that they will be having. 
 
+[LucidApp](https://lucid.app/lucidchart/95c13af7-eabc-47e9-bcb4-89117e22554d/edit?page=0_0#?folder_id=home&browser=icon)
 
 
 
